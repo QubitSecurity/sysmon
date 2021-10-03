@@ -1,2 +1,2 @@
 # sysmon
-sysmon basic ruleset - It is under testing
+sysmon server ruleset for PLURA.
